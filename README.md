@@ -12,23 +12,23 @@ Ensuite j'ai connecté une autre VM Windows 10 sur le même réseau pour pouvoir
 Ensuite j'ai ouvert Event Viewer depuis le serveur et j'ai préparé l'enregistrement demandé dans le Challenge de la quête :  
   
 Configuration de ta vue personnalisée :
-  Niveaux à surveiller
-    Critique (1)
-    Erreur (2)
-    Avertissement (3)
-    Information (4) - Pour les démarrages/arrêts
-  Sources d'événements à inclure
-    DNS-Server-Service: Pour les opérations du serveur DNS
-    DNS Client Events: Pour les événements côté client
-
+  Niveaux à surveiller  
+    Critique (1)  
+    Erreur (2)  
+    Avertissement (3)  
+    Information (4) - Pour les démarrages/arrêts  
+  Sources d'événements à inclure  
+    DNS-Server-Service: Pour les opérations du serveur DNS  
+    DNS Client Events: Pour les événements côté client  
+ 
 <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/Windows-Event-Log/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2021-43-04.png" Width=800></P>  
 
-  Événements critiques (ID principaux)
-    2: Démarrage du serveur DNS
-    4: Arrêt du serveur DNS
-    409: Erreur de résolution de nom
-    501-502: Échec de chargement de zone
-    6001-6002: Problèmes de réplication DNS
+  Événements critiques (ID principaux)  
+    2: Démarrage du serveur DNS  
+    4: Arrêt du serveur DNS  
+    409: Erreur de résolution de nom  
+    501-502: Échec de chargement de zone  
+    6001-6002: Problèmes de réplication DNS  
 
   
 
