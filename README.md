@@ -11,4 +11,7 @@ Ensuite j'ai connecté une autre VM Windows 10 sur le même réseau pour pouvoir
 
 Ensuite j'ai ouvert Event Viewer depuis le serveur et j'ai préparé l'enregistrement demandé dans le Challenge de la quête :  
 
-<P ALIGN=CENTER><IMG SRC="" Width=800></P>  
+<P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/Windows-Event-Log/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2021-43-04.png" Width=800></P>  
+
+  <P ALIGN=CENTER><IMG SRC="" Width=800></P>  
+
