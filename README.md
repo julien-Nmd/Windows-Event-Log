@@ -36,6 +36,6 @@ Ensuite j'ai ouvert Event Viewer depuis le serveur et j'ai préparé l'enregistr
 
 Ensuite j'ai enregistré cette "vue presonnalisée" en "Custom View" et je suis allé dans la partie **Custom View** dans la partie de droite de Event Viewer.  
 Là, j'ai cliqué sur **Save All Events in Custom View As...** j'ai enregistré au format XML un fichier que j'ai nommé **DNS-Event-Log.xml**.  
-Bon je vous avoue que là je ne suis plus tout à fait sûr de moi et j'en appelle à vos commentaires pour voir si j'ai compris ou pas mais je suis pas sûr que le fichier en question soit bien "lisible". En tout cas pas de Github directement mais plutot d'un navigateur internet. En tout Cas le fichier en question est dans mon dépot GitHub.  
+Bon je vous avoue que là je ne suis plus tout à fait sûr de moi et j'en appelle à vos commentaires pour voir si j'ai compris ou pas mais je suis pas sûr que le fichier en question soit bien "lisible". En tout cas pas de Github directement mais plutot d'un navigateur internet. Le fichier en question est dans mon dépot GitHub.  
 D'avance merci pour votre correction. 
 
